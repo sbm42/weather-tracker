@@ -1,5 +1,3 @@
-# weather-tracker
-
 # Трекер погоды
 
 Backend: Golang 
